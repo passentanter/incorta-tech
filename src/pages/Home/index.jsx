@@ -7,7 +7,7 @@ import landingImage from "../../assets/landImg.jpeg";
 const Home = () => {
   return (
     <div className="relative">
-      <img className="w-full h-screen" src={landingImage} akt="landingImage" />
+      <img className="w-full h-screen" src={landingImage} akt="landing Image" />
       <SeasonList />
     </div>
   );
