@@ -102,7 +102,7 @@ const AnalyticsSection = ({ raceDetails, defaultComparisonDrivers }) => {
         />
         <Button
           onClick={resetComparing}
-          label="Reset"
+          label="Resett"
           severity="danger"
           rounded
         />
